@@ -88,9 +88,7 @@ The tool evaluates passwords based on:
 3. **Common Password Check** – Flags passwords found in common password lists
 4. **Crack Time Estimation** – Calculates possible combinations based on character types, assuming one billion attempts per second
 
-## Password Security Best Practices
-
-Based on this tool, here are key recommendations:
+## Best Practices
 
 - **Use at least 12 characters** - Longer is always better  
 - **Mix character types** - Combine uppercase, lowercase, numbers, and symbols  
