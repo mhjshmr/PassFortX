@@ -92,11 +92,11 @@ The tool evaluates passwords based on:
 
 Based on this tool, here are key recommendations:
 
-**Use at least 12 characters** - Longer is always better  
-**Mix character types** - Combine uppercase, lowercase, numbers, and symbols  
-**Avoid common passwords** - Never use "password123", "qwerty", etc.  
-**Use unique passwords** - Different password for each account  
-**Consider a password manager** - Safely store complex passwords  
+- **Use at least 12 characters** - Longer is always better  
+- **Mix character types** - Combine uppercase, lowercase, numbers, and symbols  
+- **Avoid common passwords** - Never use "password123", "qwerty", etc.  
+- **Use unique passwords** - Different password for each account  
+- **Consider a password manager** - Safely store complex passwords  
 
 ## Security Considerations
 
