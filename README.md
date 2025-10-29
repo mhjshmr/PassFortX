@@ -2,6 +2,7 @@
 
 PassFortX is a Python-based cybersecurity tool designed to evaluate password strength, estimate cracking time, and generate secure random passwords.
 It demonstrates key password security principles, helping users understand how to create strong and resilient credentials.
+<br>
 
 <div align="center">
   <img src="https://github.com/mhjshmr/PassFortX/blob/main/passfortx.png?raw=true" alt="PassFortX Screenshot" width="400">
