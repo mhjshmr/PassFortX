@@ -1,6 +1,6 @@
-# PassFortify – Password Strength Checker & Generator
+# PassFortX – Password Strength Checker & Generator
 
-PassFortify is a Python-based cybersecurity tool designed to evaluate password strength, estimate cracking time, and generate secure random passwords.
+PassFortX is a Python-based cybersecurity tool designed to evaluate password strength, estimate cracking time, and generate secure random passwords.
 It demonstrates key password security principles, helping users understand how to create strong and resilient credentials.
 
 ## Overview
