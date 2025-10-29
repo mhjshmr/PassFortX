@@ -79,15 +79,17 @@ Estimated time to crack: 8.7e+18 years
 
 ## How It Works
 
-### Strength Analysis Criteria
-
-The tool evaluates passwords based on:
-
+### Strength Analysis Criteria:
 1. **Length** – Less than 6 characters: Weak; 6–7 characters: Medium; 8+ characters with complexity: Strong
 2. **Character Variety** – Lowercase, uppercase, numbers, special characters
 3. **Common Password Check** – Flags passwords found in common password lists
 4. **Crack Time Estimation** – Calculates possible combinations based on character types, assuming one billion attempts per second
 
+### Password Generation:
+- Randomly selects characters from all categories
+- Ensures all character types are included
+- Shuffles characters to improve unpredictability
+  
 ## Best Practices
 
 - **Use at least 12 characters** - Longer is always better  
