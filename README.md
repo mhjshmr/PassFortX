@@ -5,7 +5,7 @@ It demonstrates key password security principles, helping users understand how t
 
 ## Overview
 
-PassFortify provides two primary features:
+PassFortX provides two primary features:
 1. **Password Strength Analysis** – Evaluates password security based on length, complexity, character variety, and common password patterns.
 2. **Secure Password Generation** Creates cryptographically secure passwords suitable for modern security standards.
 
